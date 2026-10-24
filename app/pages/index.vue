@@ -56,8 +56,13 @@
 
   <UPageCard
   title="Contact"
-  description="gibsoncameron975@gmail.com"/>
+  description="gibsoncameron975@gmail.com">
 
+    <NuxtLink to="/Cameron_Gibson_resume_2026.pdf" target="_blank" external>
+    Read Resume
+    </NuxtLink>
+
+  </UPageCard>
   <UPageCard>
     <template #title>
       <h2 class="text-3xl">My Work</h2>
