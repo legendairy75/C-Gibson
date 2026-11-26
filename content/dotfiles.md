@@ -4,7 +4,7 @@ Install my dot files from my .dotfile repo and use stow to link them to the corr
 or use my setup script by pasting this command in your terminal:
 
 ```bash
-wget -qO- https://ron-gibson.com/setup.sh | bash
+wget -qO- https://camgibs.com/setup.sh | bash
 ```
 
 ## issues
