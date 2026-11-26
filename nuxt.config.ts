@@ -39,7 +39,7 @@ export default defineNuxtConfig({
       cdnURL: '/',
     head: {
 
-      titleTemplate: 'R.Gibson',
+      titleTemplate: 'C.Gibson',
         link: [
             {
                 rel: 'icon',

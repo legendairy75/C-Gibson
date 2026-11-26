@@ -1,11 +1,11 @@
 <template>
-  <UPageHero color="secondary" title="R.Gibson" orientation="horizontal">
+  <UPageHero color="secondary" title="C.Gibson" orientation="horizontal">
 
     <template #description>
       <h2 class="text-primary">Devops</h2>
     </template>
 
-    <img src="/RGibson.png" alt="R.Gibson" width='350' style="border-radius: 50%">
+    <img src="/CGibson.png" alt="C.Gibson" width='350' style="border-radius: 50%">
   </UPageHero>
 
   <UPageCard

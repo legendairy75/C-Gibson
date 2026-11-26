@@ -10,7 +10,7 @@ const { items } = mainNav()
          alt="logo"
          class="h-8 w-8"
      />
-      R. Gibson
+      C. Gibson
     </template>
 
     <UNavigationMenu :items="items" class="hidden lg:flex" />
